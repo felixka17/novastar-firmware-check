@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-08",
+ "checked": "2026-11-09",
  "products": {
   "COEX | MX6000 Pro/ MX2000 Pro": "V1.5.1",
   "COEX | CX40 Pro": "V1.5.1",
@@ -70,7 +70,7 @@
   "Processors | ET1S-G": "V1.3.2",
   "Processors | ET2S-G": "V1.3.3",
   "Processors | ET4S-G": "V1.5.0",
-  "Processors | ET16S-G": "V1.5.0",
+  "Processors | ET16S-G": "V1.6.0",
   "Processors | HDR Master 4K": "V2.0.1.0",
   "Processors | Vunit 3000": "V3.3.0",
   "Nova Cloud | TU15 Pro": null,
