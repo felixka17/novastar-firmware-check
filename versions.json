@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-09",
+ "checked": "2026-11-16",
  "products": {
   "COEX | MX6000 Pro/ MX2000 Pro": "V1.5.1",
   "COEX | CX40 Pro": "V1.5.1",
@@ -95,12 +95,12 @@
   "Nova Cloud | LCB4K": null,
   "Nova Cloud | MBOX600 Pro": null,
   "Nova Cloud | ViPlex Handy": "APP (Recommend)",
-  "Nova Cloud | ViPlex Express 4.0": "V4.1.1.0201",
+  "Nova Cloud | ViPlex Express 4.0": "V4.2.0.0410",
   "Nova Cloud | ViPlex Express 3.0": "V3.0.5.1501",
   "Nova Cloud | ViPlex Express for Sync Mode": "V3.0.5.1501",
   "Nova Cloud | VNNOX CARE": null,
   "Software | COEX VMP": "V1.5.1",
-  "Software | VICP": "V13.2.1",
+  "Software | VICP": "V13.3.0",
   "Software | Kompass FX3 Pro": "V2.7.0",
   "Software | NovaLCT": "V5.9.3",
   "Software | Unico": "V2.8.0"
